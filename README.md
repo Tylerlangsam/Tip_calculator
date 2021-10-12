@@ -10,4 +10,4 @@ Users can use this tip calculator whenever they would like to quickly find out h
 
 other time that would normally constitue a tip!
 
-The script was written in Python3, to run the program type "Python3 tip_calculator.py"
+The script was written in Python3 - Python 3.9.6, to run the program type "Python3 tip_calculator.py"
